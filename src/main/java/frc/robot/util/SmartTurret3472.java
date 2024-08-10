@@ -79,10 +79,11 @@ public class SmartTurret3472 {
                 Math.sqrt(Math.pow((blueSpeaker.getX()-robotPoseSupplier.get().getX()), 2) +
                 Math.pow((blueSpeaker.getY()-robotPoseSupplier.get().getY()), 2) ));
 
-
         return Omega;
     }
 
 }
+
+// :v
 
 

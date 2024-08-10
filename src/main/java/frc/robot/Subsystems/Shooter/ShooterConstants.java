@@ -17,6 +17,8 @@ public class ShooterConstants {
         public static final double offset = 0;
         public static final boolean TurretReversed = false;
 
+        public static final double prueba = 0.0;
+
     }
 
     public static final class AngleShooterConstants{
